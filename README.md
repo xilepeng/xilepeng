@@ -4,17 +4,17 @@
 
 
 * 🧐   Interested in full stack. Recent focus on backend.
-* 🎓   Bachelor of Science in Computer Science, Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3%.
+* 🎓   Bachelor of Science in Computer Science, Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3.
 * 🌱   Currently learning Golang.
 * 📚   Reading more about Golang, how the computer works.
-* 💻   With 4 years' computer science and technology education.
+* 💻   With 5 years' computer science and technology education.
 * ⛵   Encouraging people for open source collaborations.
-<!-- * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://xilepeng.com/)(Cumulative 5.45 million PV / 2.23 million UV). -->
-
 
 
 
 [![xilepeng's github stats](https://github-readme-stats.vercel.app/api?username=xilepeng)](https://github.com/xilepeng)
+
+
 
 
 
