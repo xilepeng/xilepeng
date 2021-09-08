@@ -7,7 +7,7 @@
 * 🎓   Bachelor of Science in Computer Science, Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3.
 * 🌱   Currently learning Golang.
 * 📚   Reading more about Golang, how the computer works.
-* 💻   With 5 years' computer science and technology education.
+<!-- * 💻   With 4 years' computer science and technology education. -->
 * ⛵   Encouraging people for open source collaborations.
 
 
