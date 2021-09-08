@@ -10,7 +10,9 @@
 * ⛵   Encouraging people for open source collaborations.
 <!-- * 💻   With 4 years' computer science and technology education. -->
 
-[![Xi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xilepeng)](https://github.com/xilepeng)
+
+
+![Lepeng Xi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xilepeng&show_icons=true)
 
 
 
