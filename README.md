@@ -11,7 +11,7 @@
 * ⛵   Encouraging people for open source collaborations.
 
 
-[![Xi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xilepeng)](https://github.com/anuraghazra/github-readme-stats)
+[![Xi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xilepeng)](https://github.com/xilepeng)
 
 
 
