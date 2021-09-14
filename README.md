@@ -8,17 +8,12 @@
 * 🌱   Currently learning Golang.
 * 📚   Reading more about Golang, how the computer works.
 * ⛵   Encouraging people for open source collaborations.
+* ✍🏻 I write my personal thoughts on Programming & Tech in my [Personal Blog](https://xilepeng.github.io/).
 <!-- * 💻   With 4 years' computer science and technology education. -->
 
 
 
 ![Lepeng Xi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xilepeng&show_icons=true)
-
-
-
-
-
-
 
 
 
