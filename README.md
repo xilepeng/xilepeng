@@ -4,7 +4,7 @@
 
 
 * 🧐   Interested in full stack. Recent focus on backend.
-* 🎓   Bachelor of Science in Computer Science, Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3.
+* 🎓   Bachelor of Science in Computer Science, Major GPA 4.0/4.0, GPA 3.59/4.0, TOP 3.
 * 🌱   Currently learning Golang.
 * 📚   Reading more about Golang, how the computer works.
 * ⛵   Encouraging people for open source collaborations.
