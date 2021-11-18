@@ -3,7 +3,7 @@
 ![](icons/header_.png)
 
 
-* 🧐   Interested in full stack. Recent focus on backend.
+* 🧐   Interested in Cloud Native. Recent focus on backend.
 * 🎓   Bachelor of Science in Computer Science, GPA 3.59/4.0, TOP 3.
 * 🌱   Currently learning Golang.
 * 📚   Reading more about Golang, how the computer works.
