@@ -2,6 +2,7 @@
 
 ![](icons/header_.png)
 
+I make elegantly professional 💻⎈🐳 Distributed Infrastructure / Kubernetes ☁️ Cloud Native 📝 DeFi Smart Contract and 🌐 Website for a living and also Write some blogs. 🌈
 
 * 🧐   Interested in Cloud Native. Recent focus on backend.
 * 🎓   Bachelor of Science in Computer Science, GPA 3.59/4.0, TOP 3.
