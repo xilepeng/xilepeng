@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there 👋 茫茫人海, 感谢相遇 ~
 
 ![](icons/header_.png)
 
@@ -14,7 +14,7 @@ I make elegantly professional 💻⎈🐳 Distributed Infrastructure / Kubernete
 
 
 
-![Lepeng Xi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xilepeng&show_icons=true)
+![Lepeng Xi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xilepeng&show_icons=true&theme=nightowl)
 
 
 
