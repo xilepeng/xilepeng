@@ -1,4 +1,4 @@
-### Hello there 👋 茫茫人海, 感谢相遇 ~
+### Hello there 👋 
 
 ![](icons/header_.png)
 
