@@ -16,11 +16,13 @@ I make elegantly professional 💻⎈🐳 Distributed Infrastructure / Kubernete
 <!-- ![Lepeng Xi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xilepeng&show_icons=true) -->
 
 
+
+ ![status](https://github-readme-stats.vercel.app/api/wakatime?username=018c5be3-6859-4307-9e83-353a14f3fa9a&layout=compact)
+
+
 |![Lepeng Xi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xilepeng&show_icons=true&hide_border=true) | <a href="https://github.com/xilepeng"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xilepeng&layout=compact&theme=buefy&hide_border=true" /></a>|
 | ------------- | ------------- |
 
-
- ![status](https://github-readme-stats.vercel.app/api/wakatime?username=018c5be3-6859-4307-9e83-353a14f3fa9a&layout=compact)
 
 
 <!-- 
