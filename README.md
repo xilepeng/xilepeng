@@ -20,7 +20,7 @@ I make elegantly professional 💻⎈🐳 Distributed Infrastructure / Kubernete
 | ------------- | ------------- |
 
 
- ![status](https://github-readme-stats.vercel.app/api/wakatime?username=018c5be3-6859-4307-9e83-353a14f3fa9a&layout=compact&theme=dark)
+ ![status](https://github-readme-stats.vercel.app/api/wakatime?username=018c5be3-6859-4307-9e83-353a14f3fa9a&layout=compact)
 
 
 <!-- 
