@@ -15,6 +15,7 @@ I make elegantly professional 💻⎈🐳 Distributed Infrastructure / Kubernete
 
 <!-- ![Lepeng Xi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xilepeng&show_icons=true) -->
 
+<figure><embed src="https://wakatime.com/share/@018c5be3-6859-4307-9e83-353a14f3fa9a/21cf32e2-5ef8-4ce7-8d12-79271e71b326.svg"></embed></figure>
 
 
  ![status](https://github-readme-stats.vercel.app/api/wakatime?username=018c5be3-6859-4307-9e83-353a14f3fa9a&layout=compact)
